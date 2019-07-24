@@ -1,0 +1,23 @@
+{
+  "name": "graphql-apollo-directives",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/gateway": "^0.6.13",
+    "apollo-link-context": "^1.0.18",
+    "apollo-link-http": "^1.5.15",
+    "apollo-server": "^2.6.8",
+    "apollo-server-express": "^2.6.8",
+    "express": "^4.17.1",
+    "graphql": "^14.4.2",
+    "lodash": "^4.17.13",
+    "log4js": "^4.5.0",
+    "node-fetch": "^2.6.0"
+  }
+}
