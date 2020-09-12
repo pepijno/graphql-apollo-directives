@@ -18,6 +18,6 @@
     "graphql": "^14.4.2",
     "lodash": "^4.17.13",
     "log4js": "^4.5.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
